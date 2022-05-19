@@ -27,7 +27,15 @@ const Home: NextPage = () => {
         <Box display="flex" justifyContent={"center"} py={2}>
           <img src="/leafs.png" height={30} style={{ objectFit: "contain" }} />
         </Box>
-        <Box pt={2} display="flex" flexDirection={"column"} gap={1}>
+        <Box
+          mt={2}
+          display="flex"
+          flexDirection={"column"}
+          gap={1}
+          border="1px solid #27445C"
+          padding={2}
+          borderRadius={4}
+        >
           <Typography fontSize={16} fontWeight={800} textAlign="center">
             Dinner Menu
           </Typography>
@@ -71,11 +79,14 @@ const Home: NextPage = () => {
           <img src="/leafs.png" height={30} style={{ objectFit: "contain" }} />
         </Box>
         <Box
-          pt={2}
+          mt={2}
           display="flex"
           flexDirection={"column"}
           gap={1}
           justifyContent="center"
+          border="1px solid #27445C"
+          padding={2}
+          borderRadius={4}
         >
           <Typography fontSize={16} fontWeight={800} textAlign="center">
             Guest List
