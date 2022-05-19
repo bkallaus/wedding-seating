@@ -96,10 +96,9 @@ const Home: NextPage = () => {
           />
           {seats
             .filter((seat) => {
-              return (
-                seat.firstName.toLowerCase().includes(name.toLowerCase()) ||
-                seat.lastName.toLowerCase().includes(name.toLowerCase())
-              );
+              return `${seat.firstName} ${seat.lastName}`
+                .toLocaleLowerCase()
+                .includes(name.toLowerCase());
             })
             .map((seat) => {
               return (
