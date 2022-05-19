@@ -18,46 +18,53 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Container maxWidth="sm">
-        <Typography pt={4} fontSize={24} fontWeight="800">
+        <Typography pt={2} fontSize={24} fontWeight="800">
           Menu and Guest Seating
         </Typography>
         <Typography fontSize={14}>
           We're so happy you could make it to our wedding!
         </Typography>
-        <Box pt={4}>
+        <Box pt={2} display="flex" flexDirection={"column"} gap={1}>
           <Typography fontSize={16} fontWeight={800}>
-            Menu
+            Dinner Menu
           </Typography>
-          <Typography fontSize={16} fontWeight={500}>
-            SOUP
-          </Typography>
-          <Typography fontSize={14}>Chicken Florentine</Typography>
-          <Typography fontSize={16} fontWeight={500}>
-            SALAD
-          </Typography>
-          <Typography fontSize={14}>House Tossed in Cucumber Bowl</Typography>
-          <Typography fontSize={16} fontWeight={500}>
-            ENTRÉE CHOICE
-          </Typography>
-          <Typography fontSize={14}>
-            Steak Delmonico* Chicken Breast Limóne* Baked New England Cod*
-          </Typography>
-          <Typography fontSize={14}>
-            *All entrees are accompanied by Garlic Mashed Potatoes and String
-            Bean Almandine
-          </Typography>
-
-          <Typography fontSize={18} fontWeight={500}>
-            DESSERT
-          </Typography>
-          <Typography fontSize={14}>
-            Tuscan Bread Pudding Wedding Cake Les Patisseries Sweets
-          </Typography>
-          <Typography fontSize={16} fontWeight={500} pt={4}>
+          <Box>
+            <Typography fontSize={16} fontWeight={500}>
+              SOUP
+            </Typography>
+            <Typography fontSize={14}>Chicken Florentine</Typography>
+          </Box>
+          <Box>
+            <Typography fontSize={16} fontWeight={500}>
+              SALAD
+            </Typography>
+            <Typography fontSize={14}>House Tossed in Cucumber Bowl</Typography>
+          </Box>
+          <Box>
+            <Typography fontSize={16} fontWeight={500}>
+              ENTRÉE CHOICE
+            </Typography>
+            <Typography fontSize={14}>Steak Delmonico*</Typography>
+            <Typography fontSize={14}>Chicken Breast Limóne</Typography>
+            <Typography fontSize={14}>Baked New England Cod</Typography>
+            <Typography fontSize={12}>
+              All entrees are accompanied by Garlic Mashed Potatoes and String
+              Bean Almandine
+            </Typography>
+          </Box>
+          <Box>
+            <Typography fontSize={18} fontWeight={500}>
+              DESSERT
+            </Typography>
+            <Typography fontSize={14}>Tuscan Bread Pudding</Typography>
+            <Typography fontSize={14}>Wedding Cake</Typography>
+            <Typography fontSize={14}>Les Patisseries Sweets</Typography>
+          </Box>
+          <Typography fontSize={14} fontWeight={500}>
             **Please remind the staff of any dietary restrictions**
           </Typography>
         </Box>
-        <Box pt={4}>
+        <Box pt={2}>
           <Typography fontSize={16} fontWeight={800}>
             Guest List
           </Typography>
