@@ -2,1779 +2,1271 @@ export const seats = [
   {
     "firstName": "Nedem",
     "lastName": "Abdullahi",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "No Pork",
-    "": ""
-  },
-  {
-    "firstName": "Tom",
-    "lastName": "Ambat",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Joe",
-    "lastName": "Ambat",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Joann",
-    "lastName": "Ambat",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Sullivan",
-    "lastName": "Ambat",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "George",
     "lastName": "Ambat",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "Shellfish Allergy",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Grace",
     "lastName": "Ambat",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Ambat",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Ambat",
+    "table": "Table 10"
+  },
+  {
+    "firstName": "Joann",
+    "lastName": "Ambat",
+    "table": "Table 10"
+  },
+  {
+    "firstName": "Sullivan",
+    "lastName": "Ambat",
+    "table": "Table 10"
   },
   {
     "firstName": "Daniel",
     "lastName": "Ammer",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Janelle",
     "lastName": "Anderson",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Zayah",
     "lastName": "Ann",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Leena",
     "lastName": "Antony",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Celina",
     "lastName": "Antony",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "Soy and nut allergy",
-    "": ""
-  },
-  {
-    "firstName": "Willington",
-    "lastName": "Antony",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Annamma",
-    "lastName": "Antony",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Alina",
     "lastName": "Antony",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "soy allergy",
-    "": ""
+    "table": "Table 09"
   },
   {
     "firstName": "Lenie",
     "lastName": "Antony",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 09"
+  },
+  {
+    "firstName": "Willington",
+    "lastName": "Antony",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Annamma",
+    "lastName": "Antony",
+    "table": "Table 13"
   },
   {
     "firstName": "Alrose",
     "lastName": "Avallana",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Elizabeth",
     "lastName": "Bailey",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Cotrell",
     "lastName": "Bailey",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Scott",
     "lastName": "Benken",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 10"
   },
   {
     "firstName": "Jamie",
     "lastName": "Benken",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 10"
   },
   {
     "firstName": "Aedan",
     "lastName": "Benna",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Gloria",
     "lastName": "Berchmans",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Emmanuel",
     "lastName": "Berchmans",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Gabriel",
     "lastName": "Berchmans",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "June",
     "lastName": "Blaine",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Nick",
     "lastName": "Bohm",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Eric",
     "lastName": "Brown",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Breann",
     "lastName": "Brown",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Vi-vien",
     "lastName": "Bui",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Izabella",
     "lastName": "Buksa",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Elsy",
     "lastName": "Chacko",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 14"
   },
   {
     "firstName": "Jose",
     "lastName": "Chacko",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 14"
   },
   {
     "firstName": "Michael",
     "lastName": "Chakalakal",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Shincy",
     "lastName": "Chakalakal",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Brandon",
     "lastName": "Chan",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Daisy",
     "lastName": "Chapa",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "Lactose Intolerant",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Evan",
     "lastName": "Charboneau",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "Allergy to seafood",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Mark",
     "lastName": "Conover",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Ellen",
     "lastName": "Conover",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Carmi",
     "lastName": "Cosmos",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Harry",
     "lastName": "Cosmos",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Sarah",
     "lastName": "Cutsforth",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Catherine",
     "lastName": "Deamant",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "No red meat",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Pam",
     "lastName": "Denicke",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Pappu",
     "lastName": "Devasia",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Elsy",
     "lastName": "Devasia",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Quyen",
     "lastName": "Diep",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "William",
     "lastName": "Doan",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Gina",
     "lastName": "Elarde",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Anthony",
     "lastName": "Elarde",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Jameson",
     "lastName": "Elarde",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Serena",
     "lastName": "Elarde",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Leila",
     "lastName": "Elarde",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Jenny",
     "lastName": "Eliazer",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 08"
   },
   {
     "firstName": "Kenny",
     "lastName": "Eliazer",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 08"
   },
   {
     "firstName": "Zion",
     "lastName": "Eliazer",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Abel",
     "lastName": "Eliazer",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Sunny",
     "lastName": "Erorickal",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Ariel",
     "lastName": "Estandarte",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Ivy",
     "lastName": "Estenson Abdullahi",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Marissa",
     "lastName": "Frederick",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "Dairy Free",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Spencer",
     "lastName": "Funke",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Liz",
     "lastName": "Funke",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "Gluten and Dairy Free",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Amrita",
     "lastName": "George",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Vonn",
     "lastName": "Gerwyn Reinoso Navarro",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Albert",
     "lastName": "Giegerich",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Elizabeth",
     "lastName": "Gobbi",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "Allergic: blue fish and ocean perch",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Armando",
     "lastName": "Gomez",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Jordan",
     "lastName": "Goodman",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Kristy",
     "lastName": "Grisanti",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Jeremy",
     "lastName": "Gross",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Maren",
     "lastName": "Hackbusch",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Sven",
     "lastName": "Hackbusch",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Andrea",
     "lastName": "Hallier",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Brad",
     "lastName": "Heaton",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Ian",
     "lastName": "Henningsen",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Anne",
     "lastName": "Henningsen",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Lisa",
     "lastName": "Henningsen",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "vegetarian",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Leslie",
     "lastName": "Hiben",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Mark",
     "lastName": "Hiben",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 06"
   },
   {
     "firstName": "Matthew",
     "lastName": "Ibrahim",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Cherchykutty",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "Vegetarian",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Joseph",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Annie",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Joy",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Ancy",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Nick",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Kunjamma",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Sr. Daisy",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "Allergy: cheese. Vegetarian",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "Thresiamma",
     "lastName": "Jacob",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 01"
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "Jacob",
+    "table": "Table 09"
   },
   {
     "firstName": "Stephanie",
     "lastName": "Jacob",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "Allergy to seafood",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "David",
     "lastName": "Jacob",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Anu",
     "lastName": "Jacob",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Jimmy",
     "lastName": "Jacob",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Mathew",
-    "lastName": "Jacob",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Jons",
     "lastName": "Jaison",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Vivek",
     "lastName": "John",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Dennis",
     "lastName": "John",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Temil",
     "lastName": "Jose",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Tommy",
-    "lastName": "Joseph",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "John",
-    "lastName": "Joseph",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Thresiamma",
-    "lastName": "Joseph",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Sebastian",
     "lastName": "Joseph",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Joseph",
+    "table": "Table 10"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Joseph",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Thresiamma",
+    "lastName": "Joseph",
+    "table": "Table 13"
   },
   {
     "firstName": "Dan",
     "lastName": "Juliano",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Laura",
     "lastName": "Juliano",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Bincy",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Joseph",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Thomas",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Claramma",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Varkey",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Betsy",
-    "lastName": "Kakkanad",
-    "tableNumber": "Table 12",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Cyril",
     "lastName": "Kakkanad",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 09"
   },
   {
     "firstName": "Stacey",
     "lastName": "Kakkanad",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "Shellfish Allergy",
-    "": ""
+    "table": "Table 09"
+  },
+  {
+    "firstName": "Bincy",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Joseph",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Claramma",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Varkey",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
+  },
+  {
+    "firstName": "Betsy",
+    "lastName": "Kakkanad",
+    "table": "Table 13"
   },
   {
     "firstName": "Beth",
     "lastName": "Kallaus",
-    "tableNumber": "Table 02",
-    "Are there any dietary restrictions that we should know of?": "Celiacs - gluten free",
-    "": ""
+    "table": "Table 01"
   },
   {
     "firstName": "John",
     "lastName": "Kallaus",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "Celiacs so gluten free",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Amber",
     "lastName": "Kallaus",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Cash",
     "lastName": "Kallaus",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Beau",
     "lastName": "Kallaus",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Nels",
     "lastName": "Kallaus",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "Celiacs so gluten free",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Dan",
     "lastName": "Kallaus",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Justin",
     "lastName": "Koo",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Bartosz",
     "lastName": "Krupa",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Ananya",
     "lastName": "Kumar",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "Don't eat beef",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Bindu",
     "lastName": "Lazar",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Sarah",
     "lastName": "Leblanc",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Diana",
     "lastName": "LeFevre",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 10"
   },
   {
     "firstName": "Paul",
     "lastName": "LeFevre",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 10"
   },
   {
     "firstName": "Luke",
     "lastName": "LeFevre",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Jackson",
     "lastName": "LeFevre",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Jacob",
     "lastName": "LeFevre",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 16"
   },
   {
     "firstName": "Paul",
     "lastName": "Leichty",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Jonathan",
     "lastName": "Luk",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Andrew",
     "lastName": "Ma",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Julie",
     "lastName": "Mac",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Orlanda",
     "lastName": "Mackie",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "NO: Red meat ot pork, salmon",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Emily",
     "lastName": "Mampilly",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Casey",
     "lastName": "Marnin",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Alina",
-    "lastName": "Mathew",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Neha",
-    "lastName": "Mathew",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "Allergic to peanut and Tree nuts",
-    "": ""
-  },
-  {
-    "firstName": "Anit",
-    "lastName": "Mathew",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Albin",
-    "lastName": "Mathew",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Noble",
-    "lastName": "Mathew",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "Allergic to peanut and Tree nuts",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Jestine",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Rigi",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Jins",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Ancy",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Thresiamma",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Tomy",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
   },
   {
     "firstName": "Thankamma",
     "lastName": "Mathew",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
+  },
+  {
+    "firstName": "Albin",
+    "lastName": "Mathew",
+    "table": "Table 09"
+  },
+  {
+    "firstName": "Noble",
+    "lastName": "Mathew",
+    "table": "Table 09"
+  },
+  {
+    "firstName": "Alina",
+    "lastName": "Mathew",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Neha",
+    "lastName": "Mathew",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Anit",
+    "lastName": "Mathew",
+    "table": "Table 11"
   },
   {
     "firstName": "Dan",
     "lastName": "Mellema",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Steve",
     "lastName": "Mellema",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "Seafood or vegetarian preferred for meal",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Shirley",
     "lastName": "Mellema",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "Seafood or vegetarian preferred for meal",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Jacob",
     "lastName": "Mellema",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Nelson",
     "lastName": "Middendorf",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Brady",
     "lastName": "Middendorf",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Megan",
     "lastName": "Mills",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "Dairy Free",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Doug",
     "lastName": "Mills",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "Dairy Free",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Evie",
     "lastName": "Mills",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Walter",
     "lastName": "Mills",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Maggie",
     "lastName": "Morrow",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Mary",
     "lastName": "Nadayil",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Augustine",
     "lastName": "Nadayil",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "gluten free, allergy- shrimp",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Jobin",
     "lastName": "Nadayil",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 09"
   },
   {
     "firstName": "Jaison",
     "lastName": "Nellikunnel",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Laura",
     "lastName": "Nelson",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Mitch",
     "lastName": "Nelson",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Farhan",
     "lastName": "Noormohammed",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "No pork",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Jojo",
     "lastName": "Oliyapurathu",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "Peanuts, tree nuts, mushroom, coconut, and zucchini allergy",
-    "": ""
+    "table": "Table 12"
   },
   {
     "firstName": "Daisy",
     "lastName": "Palatty",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 14"
   },
   {
     "firstName": "Steve",
     "lastName": "Palatty",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Michaela",
-    "lastName": "Paramben",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Sarah",
-    "lastName": "Paramben",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 14"
   },
   {
     "firstName": "Rijo",
     "lastName": "Paramben",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Lekha",
     "lastName": "Paramben",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Mathew",
     "lastName": "Paramben",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 09"
+  },
+  {
+    "firstName": "Michaela",
+    "lastName": "Paramben",
+    "table": "Table 16"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Paramben",
+    "table": "Table 16"
   },
   {
     "firstName": "Etye",
     "lastName": "Perez",
-    "tableNumber": "Table 03",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 03"
   },
   {
     "firstName": "Hannah",
     "lastName": "Peterson",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "No seafood or fish",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Jordan",
     "lastName": "Pierce",
-    "tableNumber": "Table 23",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 18"
   },
   {
     "firstName": "Dana",
     "lastName": "Platzbecker",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "Dana is dairy free",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Kyle",
     "lastName": "Platzbecker",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Cole",
     "lastName": "Poffenberger",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Allison",
     "lastName": "Poffenberger",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Varghese",
     "lastName": "Poulose",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Annie",
     "lastName": "Poulose",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Sanoj",
-    "lastName": "Purathur",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Renee",
-    "lastName": "Purathur",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Saji",
-    "lastName": "Purathur",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Thomas",
     "lastName": "Purathur",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
   },
   {
     "firstName": "Celine",
     "lastName": "Purathur",
-    "tableNumber": "Table 13",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 04"
+  },
+  {
+    "firstName": "Sanoj",
+    "lastName": "Purathur",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Renee",
+    "lastName": "Purathur",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Saji",
+    "lastName": "Purathur",
+    "table": "Table 10"
   },
   {
     "firstName": "Cooper",
     "lastName": "Reynolds",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Flynn",
     "lastName": "Reynolds",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Martha",
     "lastName": "Reynolds",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Jeff",
     "lastName": "Reynolds",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 15"
   },
   {
     "firstName": "Chris",
     "lastName": "Riordan",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "Mushrooms",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Samantha",
     "lastName": "Rongo",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Ewelina",
     "lastName": "Samel",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Chelsty",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "Chelsty - shrimp",
-    "": ""
-  },
-  {
-    "firstName": "Christy",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Jithwin",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Karishma",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Saly",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 06",
-    "Are there any dietary restrictions that we should know of?": "Shrimp/shellfish allergy",
-    "": ""
-  },
-  {
-    "firstName": "Savy",
-    "lastName": "Sebastian",
-    "tableNumber": "Table 08",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 25"
   },
   {
     "firstName": "Mary",
     "lastName": "Sebastian",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "Shrimp/shellfish allergy",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Mercy",
     "lastName": "Sebastian",
-    "tableNumber": "Table 17",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 05"
+  },
+  {
+    "firstName": "Saly",
+    "lastName": "Sebastian",
+    "table": "Table 06"
+  },
+  {
+    "firstName": "Chelsty",
+    "lastName": "Sebastian",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Christy",
+    "lastName": "Sebastian",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Jithwin",
+    "lastName": "Sebastian",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Karishma",
+    "lastName": "Sebastian",
+    "table": "Table 11"
+  },
+  {
+    "firstName": "Savy",
+    "lastName": "Sebastian",
+    "table": "Table 12"
   },
   {
     "firstName": "Ruhi",
     "lastName": "Shariff",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Sana",
     "lastName": "Shariff",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Ali",
     "lastName": "Shariff",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Daisy",
     "lastName": "Shay",
-    "tableNumber": "Table 07",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 10"
   },
   {
     "firstName": "Dan",
     "lastName": "Smith",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "Vegetarian",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Nora",
     "lastName": "Smith",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Kate",
     "lastName": "Sorenson",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Adam",
     "lastName": "Sorenson",
-    "tableNumber": "Table 19",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 19"
   },
   {
     "firstName": "Eric",
     "lastName": "Spake",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "AJ",
     "lastName": "Spake",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Jonah",
     "lastName": "Spake",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "Peanut allergy",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Plus One",
     "lastName": "Spake",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 20"
   },
   {
     "firstName": "Rachel",
     "lastName": "Strickler",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "Vegetarian",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Shelton",
     "lastName": "Strickler",
-    "tableNumber": "Table 04",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 22"
   },
   {
     "firstName": "Geetha",
     "lastName": "Sunny",
-    "tableNumber": "Table 15",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 21"
   },
   {
     "firstName": "Paul",
     "lastName": "Tanis",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "Severe allergy to anything sesame: oil, seeds, paste (tahini like in hummus). Also a severe allergy to anchovies including in dressings, sauces, etc.",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Maureen",
     "lastName": "Tanis",
-    "tableNumber": "Table 16",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 17"
   },
   {
     "firstName": "Neethu",
     "lastName": "Temil",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Ethan",
     "lastName": "Temil",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 07"
   },
   {
     "firstName": "Trever",
     "lastName": "Thomas",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Ruby",
     "lastName": "Thomas",
-    "tableNumber": "Head Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Head Table"
   },
   {
     "firstName": "Tessy",
     "lastName": "Thomas",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Andrews",
     "lastName": "Thomas",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 02"
   },
   {
     "firstName": "Crystal",
     "lastName": "Thomas",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "Allergic to red meat",
-    "": ""
+    "table": "Table 09"
   },
   {
     "firstName": "Bailley",
     "lastName": "Thomas",
-    "tableNumber": "Table 22",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 23"
   },
   {
     "firstName": "Ethan",
     "lastName": "Titler",
-    "tableNumber": "Table 21",
-    "Are there any dietary restrictions that we should know of?": "Lactose Intolerant",
-    "": ""
-  },
-  {
-    "firstName": "Shalu",
-    "lastName": "Tom",
-    "tableNumber": "Table 05",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 24"
   },
   {
     "firstName": "Roshan",
     "lastName": "Tom",
-    "tableNumber": "Table 14",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Table 09"
   },
   {
-    "firstName": "Sheela",
-    "lastName": "Unnikrishnan",
-    "tableNumber": "Table 09",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Jose",
-    "lastName": "Vadakumchery",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Daisy",
-    "lastName": "Vadakumchery",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Wilson",
-    "lastName": "Vadakumchery",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Lincy",
-    "lastName": "Vadakumchery",
-    "tableNumber": "Table 24",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Vineesh",
-    "lastName": "Varghese",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Siji",
-    "lastName": "Varghese",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Christina",
-    "lastName": "Varughese",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Alvin",
-    "lastName": "Varughese",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Mia",
-    "lastName": "Varughese",
-    "tableNumber": "Table 01",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Ava",
-    "lastName": "Varughese",
-    "tableNumber": "Table 10",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Jennifer",
-    "lastName": "Verploegh",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Todd",
-    "lastName": "Verploegh",
-    "tableNumber": "Table 11",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Arthur",
-    "lastName": "Vineesh",
-    "tableNumber": "Table 20",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "David",
-    "lastName": "Ward",
-    "tableNumber": "Table 18",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Melissa",
-    "lastName": "Wilson",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
-  },
-  {
-    "firstName": "Penny",
-    "lastName": "Wilson",
-    "tableNumber": "Table 25",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": "9yrs old"
+    "firstName": "Shalu",
+    "lastName": "Tom",
+    "table": "Table 11"
   },
   {
     "firstName": "Stephanie",
     "lastName": "Traynor",
-    "tableNumber": "Vendor Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Vendor Table"
   },
   {
     "firstName": "Scott",
     "lastName": "Traynor",
-    "tableNumber": "Vendor Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Vendor Table"
+  },
+  {
+    "firstName": "Sheela",
+    "lastName": "Unnikrishnan",
+    "table": "Table 02"
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Vadakumchery",
+    "table": "Table 14"
+  },
+  {
+    "firstName": "Daisy",
+    "lastName": "Vadakumchery",
+    "table": "Table 14"
+  },
+  {
+    "firstName": "Wilson",
+    "lastName": "Vadakumchery",
+    "table": "Table 14"
+  },
+  {
+    "firstName": "Lincy",
+    "lastName": "Vadakumchery",
+    "table": "Table 14"
+  },
+  {
+    "firstName": "Vineesh",
+    "lastName": "Varghese",
+    "table": "Table 07"
+  },
+  {
+    "firstName": "Siji",
+    "lastName": "Varghese",
+    "table": "Table 07"
+  },
+  {
+    "firstName": "Christina",
+    "lastName": "Varughese",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Alvin",
+    "lastName": "Varughese",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Varughese",
+    "table": "Table 08"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Varughese",
+    "table": "Table 16"
   },
   {
     "firstName": "Oliver",
     "lastName": "Vasilopoulos",
-    "tableNumber": "Vendor Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Vendor Table"
   },
   {
     "firstName": "Plus One",
     "lastName": "Vasilopoulos",
-    "tableNumber": "Vendor Table",
-    "Are there any dietary restrictions that we should know of?": "",
-    "": ""
+    "table": "Vendor Table"
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Verploegh",
+    "table": "Table 25"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Verploegh",
+    "table": "Table 25"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Vineesh",
+    "table": "Table 07"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Ward",
+    "table": "Table 15"
+  },
+  {
+    "firstName": "Melissa",
+    "lastName": "Wilson",
+    "table": "Table 20"
+  },
+  {
+    "firstName": "Penny",
+    "lastName": "Wilson",
+    "table": "Table 20"
   }
 ];

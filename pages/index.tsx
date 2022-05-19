@@ -41,19 +41,17 @@ const Home: NextPage = () => {
           </Typography>
           <Box>
             <Typography fontSize={16} fontWeight={500}>
-              SOUP
+              Chicken Florentine Soup
             </Typography>
-            <Typography fontSize={14}>Chicken Florentine</Typography>
           </Box>
           <Box>
             <Typography fontSize={16} fontWeight={500}>
-              SALAD
+              House Tossed Salad in Cucumber Bowl
             </Typography>
-            <Typography fontSize={14}>House Tossed in Cucumber Bowl</Typography>
           </Box>
           <Box>
             <Typography fontSize={16} fontWeight={500}>
-              ENTRÉE CHOICE
+              Entrée Choice
             </Typography>
             <Typography fontSize={14}>Steak Delmonico*</Typography>
             <Typography fontSize={14}>Chicken Breast Limóne</Typography>
@@ -65,13 +63,13 @@ const Home: NextPage = () => {
           </Box>
           <Box>
             <Typography fontSize={16} fontWeight={500}>
-              DESSERT
+              Dessert
             </Typography>
             <Typography fontSize={14}>Tuscan Bread Pudding</Typography>
             <Typography fontSize={14}>Wedding Cake</Typography>
             <Typography fontSize={14}>Les Patisseries Sweets</Typography>
           </Box>
-          <Typography fontSize={14} fontWeight={500}>
+          <Typography fontSize={14} fontWeight={500} textAlign="center">
             **Please remind the staff of any dietary restrictions**
           </Typography>
         </Box>
@@ -110,7 +108,7 @@ const Home: NextPage = () => {
                   textAlign="center"
                 >
                   <Typography>
-                    {seat.firstName} {seat.lastName} - {seat.tableNumber}
+                    {seat.firstName} {seat.lastName} - {seat.table}
                   </Typography>
                 </Box>
               );
