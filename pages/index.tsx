@@ -70,7 +70,8 @@ const Home: NextPage = () => {
             <Typography fontSize={14}>Les Patisseries Sweets</Typography>
           </Box>
           <Typography fontSize={14} fontWeight={500} textAlign="center">
-            **Please remind the staff of any dietary restrictions**
+            Servers will take your entrée order at time of seating. Please
+            remind the staff of any dietary restrictions.
           </Typography>
         </Box>
         <Box display="flex" justifyContent={"center"} py={2}>

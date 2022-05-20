@@ -107,7 +107,7 @@ export const seats = [
   {
     "firstName": "Aedan",
     "lastName": "Benna",
-    "table": "Table 22"
+    "table": "Table 24"
   },
   {
     "firstName": "Gloria",
@@ -327,7 +327,7 @@ export const seats = [
   {
     "firstName": "Vonn",
     "lastName": "Gerwyn Reinoso Navarro",
-    "table": "Table 22"
+    "table": "Table 24"
   },
   {
     "firstName": "Albert",
@@ -687,7 +687,7 @@ export const seats = [
   {
     "firstName": "Casey",
     "lastName": "Marnin",
-    "table": "Table 18"
+    "table": "Table 22"
   },
   {
     "firstName": "Jestine",
@@ -872,12 +872,12 @@ export const seats = [
   {
     "firstName": "Michaela",
     "lastName": "Paramben",
-    "table": "Table 16"
+    "table": "Table 11"
   },
   {
     "firstName": "Sarah",
     "lastName": "Paramben",
-    "table": "Table 16"
+    "table": "Table 11"
   },
   {
     "firstName": "Etye",
@@ -892,7 +892,7 @@ export const seats = [
   {
     "firstName": "Jordan",
     "lastName": "Pierce",
-    "table": "Table 18"
+    "table": "Table 22"
   },
   {
     "firstName": "Dana",
